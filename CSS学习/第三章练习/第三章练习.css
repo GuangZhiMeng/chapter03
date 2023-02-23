@@ -1,0 +1,33 @@
+@font-face {
+    font-family: FZJZJW;
+    src: url(./font/FZJZJW.TTF);
+}
+
+h2{
+    font-size: 42px;
+    font-family: "FZJZJW";
+    text-align:center;
+    letter-spacing: 8px;
+}
+
+.center{
+    text-align:center;
+}
+
+.red{
+    color:red;
+}
+
+.blue{
+    color:#1E90FF;
+}
+
+p{
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    padding:0.1px 0;
+}
+
+.italic{
+    font-style: italic;
+}
